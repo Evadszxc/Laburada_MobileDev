@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623003097905",
+    "project_id": "prelimexamlaburada",
+    "storage_bucket": "prelimexamlaburada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623003097905:android:9bfd6634e3c4d640736e10",
+        "android_client_info": {
+          "package_name": "ph.edu.uic.prelimexamlaburada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrSQioNkr-ha7AtIUrSXESjb_JFxdjv4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
